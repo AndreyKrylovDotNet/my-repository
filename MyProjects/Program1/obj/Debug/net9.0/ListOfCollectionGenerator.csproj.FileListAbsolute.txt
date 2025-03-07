@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\MyProjects\Program1\bin\Debug\net9.0\ListOfCollectionGenerator.exe
+C:\Users\User\source\repos\MyProjects\Program1\bin\Debug\net9.0\ListOfCollectionGenerator.deps.json
+C:\Users\User\source\repos\MyProjects\Program1\bin\Debug\net9.0\ListOfCollectionGenerator.runtimeconfig.json
+C:\Users\User\source\repos\MyProjects\Program1\bin\Debug\net9.0\ListOfCollectionGenerator.dll
+C:\Users\User\source\repos\MyProjects\Program1\bin\Debug\net9.0\ListOfCollectionGenerator.pdb
+C:\Users\User\source\repos\MyProjects\Program1\obj\Debug\net9.0\ListOfCollectionGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MyProjects\Program1\obj\Debug\net9.0\ListOfCollectionGenerator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MyProjects\Program1\obj\Debug\net9.0\ListOfCollectionGenerator.AssemblyInfo.cs
+C:\Users\User\source\repos\MyProjects\Program1\obj\Debug\net9.0\ListOfCollectionGenerator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MyProjects\Program1\obj\Debug\net9.0\ListOfCollectionGenerator.sourcelink.json
+C:\Users\User\source\repos\MyProjects\Program1\obj\Debug\net9.0\ListOfCollectionGenerator.dll
+C:\Users\User\source\repos\MyProjects\Program1\obj\Debug\net9.0\refint\ListOfCollectionGenerator.dll
+C:\Users\User\source\repos\MyProjects\Program1\obj\Debug\net9.0\ListOfCollectionGenerator.pdb
+C:\Users\User\source\repos\MyProjects\Program1\obj\Debug\net9.0\ListOfCollectionGenerator.genruntimeconfig.cache
+C:\Users\User\source\repos\MyProjects\Program1\obj\Debug\net9.0\ref\ListOfCollectionGenerator.dll

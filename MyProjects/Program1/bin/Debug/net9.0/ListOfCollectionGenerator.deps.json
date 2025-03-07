@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ListOfCollectionGenerator/1.0.0": {
+        "runtime": {
+          "ListOfCollectionGenerator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ListOfCollectionGenerator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

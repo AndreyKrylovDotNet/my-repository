@@ -1,0 +1,14 @@
+C:\Users\Andrey\source\repos\Homeworks\Homework_06\bin\Debug\Homework_06.exe.config
+C:\Users\Andrey\source\repos\Homeworks\Homework_06\bin\Debug\Homework_06.exe
+C:\Users\Andrey\source\repos\Homeworks\Homework_06\bin\Debug\Homework_06.pdb
+C:\Users\Andrey\source\repos\Homeworks\Homework_06\obj\Debug\Homework_06.csproj.AssemblyReference.cache
+C:\Users\Andrey\source\repos\Homeworks\Homework_06\obj\Debug\Homework_06.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Homeworks\Homework_06\obj\Debug\Homework_06.exe
+C:\Users\Andrey\source\repos\Homeworks\Homework_06\obj\Debug\Homework_06.pdb
+C:\Users\User\source\repos\Homeworks\Homework_06\bin\Debug\Homework_06.exe.config
+C:\Users\User\source\repos\Homeworks\Homework_06\bin\Debug\Homework_06.exe
+C:\Users\User\source\repos\Homeworks\Homework_06\bin\Debug\Homework_06.pdb
+C:\Users\User\source\repos\Homeworks\Homework_06\obj\Debug\Homework_06.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Homeworks\Homework_06\obj\Debug\Homework_06.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Homeworks\Homework_06\obj\Debug\Homework_06.exe
+C:\Users\User\source\repos\Homeworks\Homework_06\obj\Debug\Homework_06.pdb

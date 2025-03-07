@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Person name="Крылов Андрей Владимирович">
+  <Address>
+    <Street>Калинина</Street>
+    <HouseNumber>53</HouseNumber>
+    <FlatNumber>33</FlatNumber>
+  </Address>
+  <Phones>
+    <MobilePhone>+79288114722</MobilePhone>
+    <FlatPhone>00000</FlatPhone>
+  </Phones>
+</Person>

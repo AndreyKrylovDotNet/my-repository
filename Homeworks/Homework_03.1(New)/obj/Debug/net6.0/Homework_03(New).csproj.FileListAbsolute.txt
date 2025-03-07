@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Homeworks\Homework_03(New)\bin\Debug\net6.0\Homework_03(New).exe
+C:\Users\User\source\repos\Homeworks\Homework_03(New)\bin\Debug\net6.0\Homework_03(New).deps.json
+C:\Users\User\source\repos\Homeworks\Homework_03(New)\bin\Debug\net6.0\Homework_03(New).runtimeconfig.json
+C:\Users\User\source\repos\Homeworks\Homework_03(New)\bin\Debug\net6.0\Homework_03(New).dll
+C:\Users\User\source\repos\Homeworks\Homework_03(New)\bin\Debug\net6.0\Homework_03(New).pdb
+C:\Users\User\source\repos\Homeworks\Homework_03(New)\obj\Debug\net6.0\Homework_03(New).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Homeworks\Homework_03(New)\obj\Debug\net6.0\Homework_03(New).AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Homeworks\Homework_03(New)\obj\Debug\net6.0\Homework_03(New).AssemblyInfo.cs
+C:\Users\User\source\repos\Homeworks\Homework_03(New)\obj\Debug\net6.0\Homework_03(New).csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Homeworks\Homework_03(New)\obj\Debug\net6.0\Homework_03(New).dll
+C:\Users\User\source\repos\Homeworks\Homework_03(New)\obj\Debug\net6.0\refint\Homework_03(New).dll
+C:\Users\User\source\repos\Homeworks\Homework_03(New)\obj\Debug\net6.0\Homework_03(New).pdb
+C:\Users\User\source\repos\Homeworks\Homework_03(New)\obj\Debug\net6.0\Homework_03(New).genruntimeconfig.cache
+C:\Users\User\source\repos\Homeworks\Homework_03(New)\obj\Debug\net6.0\ref\Homework_03(New).dll
